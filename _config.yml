@@ -1,0 +1,13 @@
+title: "badge.dotenv.org"
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://badge.dotenv.org" # the base hostname & protocol for your site, e.g. http://example.com
+logo: "https://raw.githubusercontent.com/motdotla/dotenv/master/dotenv.svg"
+description: "Simplify your secrets"
+
+exclude:
+  - .DS_Store
+  - README.md
+
+assets:
+  sources:
+    - assets
