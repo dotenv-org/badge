@@ -11,3 +11,6 @@ exclude:
 assets:
   sources:
     - assets
+
+plugins:
+  - jekyll-redirect-from
